@@ -23,6 +23,10 @@ dist
 build
 eggs
 parts
+dist
+build
+eggs
+parts
 var
 sdist
 develop-eggs
